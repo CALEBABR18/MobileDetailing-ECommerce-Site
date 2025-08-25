@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@stripe/stripe-js": "^7.8.0",
+    "date-fns": "^4.1.0",
+    "stripe": "^18.4.0",
+    "vue-stripe": "^1.0.3"
+  }
+}
