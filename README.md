@@ -14,7 +14,7 @@ Auto Stallion is a premium e-commerce mobile car detailing business based in Cap
 
 - - - -
 ## Live Demo
-[Link to the live deployed website]()
+[Link to the live deployed website](https://github.com/CALEBABR18/MobileDetailing-ECommerce-Site.git)
 - - - -
 ## Key Features
  * User Authentication: Sign up , login , and reset password functionality via email.
@@ -55,7 +55,7 @@ Requirements for the software and other tools to build, test and push
 Follow these steps to get the AutoStallion backend running locally:
 1. **Clone the Repository**
 ```bash
-    git clone []
+    git clone [https://github.com/CALEBABR18/MobileDetailing-ECommerce-Site.git]
    ```
 2. **Install dependencies**
    
